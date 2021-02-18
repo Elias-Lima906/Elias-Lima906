@@ -11,7 +11,6 @@ My name is Elias Lima. How is it going? I work as a Back-end Developer at [ZUP I
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
 
@@ -21,10 +20,11 @@ My name is Elias Lima. How is it going? I work as a Back-end Developer at [ZUP I
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ### Analytics ⚙️
 
@@ -41,4 +41,4 @@ My name is Elias Lima. How is it going? I work as a Back-end Developer at [ZUP I
 	<a href="https://www.instagram.com/sr.smith906"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-#### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Guillaume Falourd](https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g) 
+#### _References: [Snake animation](https://github.com/Platane/snk) || [Guillaume Falourd](https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g) 
