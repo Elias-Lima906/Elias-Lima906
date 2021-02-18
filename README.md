@@ -5,7 +5,7 @@ My name is Elias Lima. I work as a Back-end Developer at [ZUP INNOVATION](www.zu
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Elias-Lima906&repo=Elias-Lima906&countColorcountColor)
 
-![Snake animation](https://github.com/Elias-Lima906/Elias-Lima906/main/svg/github-user-contribution.svg)
+![Snake animation](https://github.com/Elias-Lima906/Elias-Lima906/blob/main/svg/github-user-contribution.svg)
 
 ### Languages & Tools 🛠
 
