@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-My name is Elias Lima. How is it going? I work as a Back-end Developer at [ZUP INNOVATION](www.zup.com.br) and this is my README ☺.
+My name is Elias Lima. How is it going? I work as a Back-end Developer at ZUP INNOVATION and this is my README ☺.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Elias-Lima906&repo=Elias-Lima906&countColorcountColor)
 
